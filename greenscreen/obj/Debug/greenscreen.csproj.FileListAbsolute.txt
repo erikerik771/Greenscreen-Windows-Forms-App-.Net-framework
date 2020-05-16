@@ -1,0 +1,10 @@
+D:\programming\cs\projects\Greenscreen\greenscreen\obj\Debug\greenscreen.csprojAssemblyReference.cache
+D:\programming\cs\projects\Greenscreen\greenscreen\obj\Debug\greenscreen.Form1.resources
+D:\programming\cs\projects\Greenscreen\greenscreen\obj\Debug\greenscreen.Properties.Resources.resources
+D:\programming\cs\projects\Greenscreen\greenscreen\obj\Debug\greenscreen.csproj.GenerateResource.cache
+D:\programming\cs\projects\Greenscreen\greenscreen\obj\Debug\greenscreen.csproj.CoreCompileInputs.cache
+D:\programming\cs\projects\Greenscreen\greenscreen\bin\Debug\greenscreen.exe.config
+D:\programming\cs\projects\Greenscreen\greenscreen\bin\Debug\greenscreen.exe
+D:\programming\cs\projects\Greenscreen\greenscreen\bin\Debug\greenscreen.pdb
+D:\programming\cs\projects\Greenscreen\greenscreen\obj\Debug\greenscreen.exe
+D:\programming\cs\projects\Greenscreen\greenscreen\obj\Debug\greenscreen.pdb
